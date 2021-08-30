@@ -1,8 +1,25 @@
-# Getting Started with Create React App
+# A Code Demo for Golden Shoe
+
+### This product demonstrates: 
+- the mobile responsive approach we will take to optimising the site's UX
+- how components can be reused
+- how project structure, naming conventions, and React components can make Agile working between teams simpler
+- calls to action in the header and footer that can greatly encourage user interaction
+
+### Deliverables:
+- responsive header
+- responsive product page grid
+- responsive footer
+
+To create the Header: Media queries, React hooks, icons, and button component
+
+To create the Product Page: Media queries. Would eventually bring in product information from the DB
+
+To create the Footer: Media queries, icons, button component
+
+### Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
-
-## Available Scripts
 
 In the project directory, you can run:
 
