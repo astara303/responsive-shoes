@@ -1,21 +1,21 @@
-# A Code Demo for Golden Shoe
+# A Demo for Golden Shoe
 
 ### This product demonstrates: 
 - the mobile responsive approach we will take to optimising the site's UX
 - how components can be reused
-- how project structure, naming conventions, and React components can make Agile working between teams simpler
+- how project structure, naming conventions, and React components can simplify Agile working between teams
 - calls to action in the header and footer that can greatly encourage user interaction
 
 ### Deliverables:
 - responsive header
-- responsive product page grid
+- responsive category page 
 - responsive footer
 
-To create the Header: Media queries, React hooks, icons, and button component
+To create the Header: Media queries, React hooks, React icons, and button component
 
-To create the Product Page: Media queries. Would eventually bring in product information from the DB
+To create the Category Page: Media queries, card component
 
-To create the Footer: Media queries, icons, button component
+To create the Footer: Media queries, React icons, button component
 
 ### Create React App
 

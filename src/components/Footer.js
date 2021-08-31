@@ -47,7 +47,7 @@ function Footer() {
             <h2>Site Use</h2>
             <Link to='/'>Terms of Service</Link>
             <Link to='/'>Cookies</Link>
-            <Link to='/'>Accessibility</Link>
+            <Link to='/'>Sitemap</Link>
           </div>
           <div className='footer-link-items'>
             <h2>Social Media</h2>
